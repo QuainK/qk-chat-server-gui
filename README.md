@@ -1,3 +1,4 @@
 # QKGroupChat_Server_GUI
-###### Firstly finished on 2019.04.06.
-QKGroupChat is a chatting GUI software based on C/S mode.
+###### 首次完成项目 2019.03.31
+###### 最后一次修改 2019.04.06
+《计算机网络》实验作品——基于Socket通信的TCP实时聊天C/S系统，此部分为服务器端。
